@@ -1,0 +1,90 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-Wall",
+      "-g",
+      "-c",
+      "srtp.c"
+    ],
+    "directory": "/mnt/seconddrive/University/3rd-Year/Semester-2/CS3102/Coursework/p2/api",
+    "file": "/mnt/seconddrive/University/3rd-Year/Semester-2/CS3102/Coursework/p2/api/srtp.c"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-Wall",
+      "-g",
+      "-c",
+      "test-server-0.c"
+    ],
+    "directory": "/mnt/seconddrive/University/3rd-Year/Semester-2/CS3102/Coursework/p2/api",
+    "file": "/mnt/seconddrive/University/3rd-Year/Semester-2/CS3102/Coursework/p2/api/test-server-0.c"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-Wall",
+      "-g",
+      "-c",
+      "test-client-1.c"
+    ],
+    "directory": "/mnt/seconddrive/University/3rd-Year/Semester-2/CS3102/Coursework/p2/api",
+    "file": "/mnt/seconddrive/University/3rd-Year/Semester-2/CS3102/Coursework/p2/api/test-client-1.c"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-Wall",
+      "-g",
+      "-c",
+      "test-server-1.c"
+    ],
+    "directory": "/mnt/seconddrive/University/3rd-Year/Semester-2/CS3102/Coursework/p2/api",
+    "file": "/mnt/seconddrive/University/3rd-Year/Semester-2/CS3102/Coursework/p2/api/test-server-1.c"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-Wall",
+      "-g",
+      "-c",
+      "test-client-2.c"
+    ],
+    "directory": "/mnt/seconddrive/University/3rd-Year/Semester-2/CS3102/Coursework/p2/api",
+    "file": "/mnt/seconddrive/University/3rd-Year/Semester-2/CS3102/Coursework/p2/api/test-client-2.c"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-Wall",
+      "-g",
+      "-c",
+      "test-server-2.c"
+    ],
+    "directory": "/mnt/seconddrive/University/3rd-Year/Semester-2/CS3102/Coursework/p2/api",
+    "file": "/mnt/seconddrive/University/3rd-Year/Semester-2/CS3102/Coursework/p2/api/test-server-2.c"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-Wall",
+      "-g",
+      "-c",
+      "test-client-3.c"
+    ],
+    "directory": "/mnt/seconddrive/University/3rd-Year/Semester-2/CS3102/Coursework/p2/api",
+    "file": "/mnt/seconddrive/University/3rd-Year/Semester-2/CS3102/Coursework/p2/api/test-client-3.c"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-Wall",
+      "-g",
+      "-c",
+      "test-server-3.c"
+    ],
+    "directory": "/mnt/seconddrive/University/3rd-Year/Semester-2/CS3102/Coursework/p2/api",
+    "file": "/mnt/seconddrive/University/3rd-Year/Semester-2/CS3102/Coursework/p2/api/test-server-3.c"
+  }
+]
